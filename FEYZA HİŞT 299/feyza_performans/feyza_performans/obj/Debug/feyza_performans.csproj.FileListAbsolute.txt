@@ -1,0 +1,40 @@
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\csc.exe
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\vbc.exe
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\VBCSCompiler.exe
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\feyza_performans.dll.config
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\feyza_performans.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\feyza_performans.pdb
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\obj\Debug\feyza_performans.csprojResolveAssemblyReference.cache
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\obj\Debug\feyza_performans.dll
+C:\Users\İBRAHİM HİŞT\Documents\Visual Studio 2015\Projects\feyza_performans\feyza_performans\obj\Debug\feyza_performans.pdb
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\csc.exe
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\vbc.exe
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\VBCSCompiler.exe
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\feyza_performans.dll.config
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\feyza_performans.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\feyza_performans.pdb
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\obj\Debug\feyza_performans.csprojResolveAssemblyReference.cache
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\obj\Debug\feyza_performans.dll
+C:\Users\feyza.hist\Desktop\Computer Sitesi\FEYZA HİŞT 299\FEYZA HİŞT 299\feyza_performans\feyza_performans\obj\Debug\feyza_performans.pdb
